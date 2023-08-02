@@ -1,16 +1,3 @@
-# buse_diet
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-08-02 at 14 43 55](https://github.com/busecansuuu/online_diet_app/assets/103958071/ee7e17fa-671a-4ae2-9452-88454d84b95f)
+![WhatsApp Image 2023-08-02 at 14 43 55 (1)](https://github.com/busecansuuu/online_diet_app/assets/103958071/06b81d45-91b2-4a6c-8ed4-810a17f76736)
+![WhatsApp Image 2023-08-02 at 14 43 54](https://github.com/busecansuuu/online_diet_app/assets/103958071/b750449c-b4a0-470e-92a0-0979ba03b8ed)
